@@ -4,7 +4,7 @@ go 1.11
 
 require (
 	github.com/dlsniper/debugger v0.6.0
-	github.com/gorilla/mux v1.7.4
+	github.com/gorilla/mux v1.6.0
 	github.com/sirupsen/logrus v1.9.0
 	cloud.google.com/go/compute v1.6.1 // indirect
 	github.com/Azure/go-ansiterm v0.0.0-20210617225240-d185dfc1b5a1 // indirect
